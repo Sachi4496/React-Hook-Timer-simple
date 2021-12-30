@@ -21,5 +21,5 @@ export const Timer = ({ startTime, endTime }) => {
     };
   }, []);
 
-  return <div>Count is : {sTime}</div>;
+  return <div>Timer is : {sTime}</div>;
 };
